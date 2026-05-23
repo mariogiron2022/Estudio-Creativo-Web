@@ -1,0 +1,6 @@
+{
+  "name": "Estudio Creativo Web",
+  "description": "Sitio web profesional para negocio de diseño web, landing pages, tiendas online, SEO, branding, mantenimiento y rediseño web, con un chatbot inteligente de asesoramiento y cotización.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
